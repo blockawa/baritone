@@ -1,3 +1,4 @@
+-dontobfuscate
 -keepattributes Signature
 -keepattributes *Annotation*
 -keepattributes InnerClasses
